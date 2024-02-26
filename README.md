@@ -39,7 +39,7 @@ This script provides a simple solution for updating your Cloudflare DNS records 
 ### Usage
 1. Run the script:
    ```
-   python ddns_cloudflare.py
+   python main.py
    ```
 
 ### Automation
